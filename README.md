@@ -5,9 +5,7 @@
 
 DocTune is a simple, end-to-end pipeline that reads documents in different formats (PDF, DOCX, TXT, CSV), converts them into a training dataset, and fine-tunes a small open-source LLM using **LoRA / QLoRA** with **Unsloth**. The whole thing runs on a **free Google Colab T4 GPU** and finishes in a few minutes of training.
 
-It is built as an exploration project: small, readable, and easy to run top to bottom.
 
----
 
 ## Table of Contents
 
